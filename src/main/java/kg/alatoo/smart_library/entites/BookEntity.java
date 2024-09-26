@@ -1,4 +1,4 @@
-package kg.alatoo.smart_library.entities;
+package kg.alatoo.smart_library.entites;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
